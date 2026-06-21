@@ -1,0 +1,1 @@
+import{B as e,M as t,R as n}from"./index-Cf6LxjA0.js";import{n as r}from"./aiUsage-QK-spO9R.js";import{t as i}from"./AiSettingsForm-sGHG2Bl2.js";var a={__name:`SettingsAiView`,setup(a){let o=r();return n(async()=>{await o.load()}),(n,r)=>(e(),t(i,{"hide-title":``}))}};export{a as default};
