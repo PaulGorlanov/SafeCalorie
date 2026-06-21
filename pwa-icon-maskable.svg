@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="SafeCalorie">
+  <rect width="512" height="512" fill="#2d6a4f"/>
+  <g transform="translate(51.2 51.2) scale(0.8)">
+    <rect width="512" height="512" rx="112" fill="#2d6a4f"/>
+    <path
+      fill="#ffffff"
+      d="M256 96c-61.9 0-112 50.1-112 112 0 88.4 112 208 112 208s112-119.6 112-208c0-61.9-50.1-112-112-112zm0 152a40 40 0 1 1 0-80 40 40 0 0 1 0 80z"
+    />
+    <path
+      fill="#95d5b2"
+      d="M160 392h192a24 24 0 0 1 0 48H160a24 24 0 0 1 0-48z"
+    />
+  </g>
+</svg>
